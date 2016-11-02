@@ -1,0 +1,3 @@
+general:
+  artifacts:
+    - "appointment-manager-1.0.0-SNAPSHOT.jar" # relative to the build directory
